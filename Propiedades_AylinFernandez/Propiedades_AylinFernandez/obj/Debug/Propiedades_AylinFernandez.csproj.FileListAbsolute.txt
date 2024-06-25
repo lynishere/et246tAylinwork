@@ -1,0 +1,8 @@
+F:\ESCUELA\2024\Programacion sobre redes\Propiedades_AylinFernandez\Propiedades_AylinFernandez\bin\Debug\Propiedades_AylinFernandez.exe.config
+F:\ESCUELA\2024\Programacion sobre redes\Propiedades_AylinFernandez\Propiedades_AylinFernandez\bin\Debug\Propiedades_AylinFernandez.exe
+F:\ESCUELA\2024\Programacion sobre redes\Propiedades_AylinFernandez\Propiedades_AylinFernandez\bin\Debug\Propiedades_AylinFernandez.pdb
+F:\ESCUELA\2024\Programacion sobre redes\Propiedades_AylinFernandez\Propiedades_AylinFernandez\obj\Debug\Propiedades_AylinFernandez.csproj.AssemblyReference.cache
+F:\ESCUELA\2024\Programacion sobre redes\Propiedades_AylinFernandez\Propiedades_AylinFernandez\obj\Debug\Propiedades_AylinFernandez.csproj.SuggestedBindingRedirects.cache
+F:\ESCUELA\2024\Programacion sobre redes\Propiedades_AylinFernandez\Propiedades_AylinFernandez\obj\Debug\Propiedades_AylinFernandez.csproj.CoreCompileInputs.cache
+F:\ESCUELA\2024\Programacion sobre redes\Propiedades_AylinFernandez\Propiedades_AylinFernandez\obj\Debug\Propiedades_AylinFernandez.exe
+F:\ESCUELA\2024\Programacion sobre redes\Propiedades_AylinFernandez\Propiedades_AylinFernandez\obj\Debug\Propiedades_AylinFernandez.pdb
